@@ -9,7 +9,7 @@
                 <circle cx="60" cy="60" r="60" />
               </clipPath>
             </defs>
-            <image clip-path="url(#avatarClip)" width="120" height="120" href="https://avatars.githubusercontent.com/u/200248551?s=400&u=b3c87c93b78af565542143eee7d93631177050a2&v=4" />
+            <image clip-path="url(#avatarClip)" width="120" height="120" href="Pfp.png" />
           </svg>
         </a>
       </td>
