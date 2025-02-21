@@ -1,9 +1,9 @@
 <div align="center">
   <table>
     <tr>
-      <td width="120" align="center">
+      <td width="150" align="center">
         <a href="https://github.com/Jarvis-Professional">
-          <img src="Pfp.png" width="100" height="100" style="border-radius: 50%;" />
+          <img src="Pfp.png" width="150" height="150" style="border-radius: 50%;" />
         </a>
       </td>
       <td align="center">
