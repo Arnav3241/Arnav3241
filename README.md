@@ -3,7 +3,7 @@
     <tr>
       <td width="150" align="center">
         <a href="https://github.com/Jarvis-Professional">
-          <img src="image.png" width="150" height="120" style="border-radius: 50%;" style="border-radius: 50%;" />
+          <img src="image.png" width="150" height="130" style="border-radius: 50%;" style="border-radius: 50%;" />
         </a>
       </td>
       <td align="center">
