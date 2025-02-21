@@ -1,27 +1,20 @@
 <div align="center">
   <table>
     <tr>
-      <td width="120">
+      <td width="120" align="center">
         <a href="https://github.com/Jarvis-Professional">
-          <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <clipPath id="avatarClip">
-                <circle cx="60" cy="60" r="60" />
-              </clipPath>
-            </defs>
-            <img src="Pfp.png" width="120" height="120" style="border-radius: 50%;" />
-          </svg>
+          <img src="Pfp.png" width="120" height="120" style="border-radius: 50%;" />
         </a>
       </td>
       <td align="center">
         <h3>
           <b>Founder of 
-            <a href="https://github.com/Jarvis-Professional">
+            <a href="https://github.com/Jarvis-Professional" style="color: #007bff;">
               Jarvis Professional
             </a>
           </b>
         </h3>
-        🤖 AI Specialist | 🛠 Automation Engineer | 🚀 Tech Innovator
+        🤖 AI Specialist | 🛠 Automation Engineer | 🚀 Tech Innovator  
         <br><br>
         <a href="https://github.com/Arnav3241">
           <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20" />
